@@ -4,7 +4,7 @@ Este repositório contém os arquivos e materiais desenvolvidos para o projeto.
 
 📹 **Vídeo de apresentação:**  
 Assista à demonstração completa no YouTube:  
-:contentReference[oaicite:0]{index=0}
+[Assistir ao vídeo](https://youtu.be/m6QaKiG4raw)
 
 ## Integrantes
 - Felipe Hui Hattori – RM565169
